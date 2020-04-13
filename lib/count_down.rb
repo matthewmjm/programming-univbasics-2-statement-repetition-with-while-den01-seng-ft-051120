@@ -6,4 +6,4 @@ while countdown > 0 do
   break if countdown == 1
   countdown -= 1
 end  
-#puts "Happy New Year!"
+puts "Happy New Year!"
